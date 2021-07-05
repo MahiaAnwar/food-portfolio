@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.food{
+    color: orange;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 250px;
+    
+}
